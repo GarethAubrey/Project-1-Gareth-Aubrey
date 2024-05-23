@@ -1,3 +1,10 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/*styles for body of html, this will be general styles*/
 body {
     min-height: 100vh;
     display: flex;
@@ -7,8 +14,10 @@ body {
 header {
     background-color: #22df8a;
     color: #0c0c0c;
-    margin: 10px;
+    z-index: 99;
     position: fixed;
+    width: 100%;
+    padding: 10px;
 }
 
 main {
@@ -16,12 +25,21 @@ main {
     color: #000000;
     /* flex 1 for grow-0 for shrink-auto for basis */
     flex: 1 0 auto;
+    margin: 10px;
     margin-top: 50px;
+    padding: 10px;
+}
+
+h2 {
+    text-transform: uppercase;
+}
+
+h3 {
+    text-transform: capitalize;
 }
 
 footer {
     background-color: #ffcb9a;
     color: #000000;
-    margin: 10px;
     align-items: flex-end;
 } 

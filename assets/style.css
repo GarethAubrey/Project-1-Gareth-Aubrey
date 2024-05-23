@@ -20,13 +20,28 @@ header {
     padding: 10px;
 }
 
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.active {
+    color: #000000;
+}
+
 main {
     background-color: #d1e8e2;
     color: #000000;
     /* flex 1 for grow-0 for shrink-auto for basis */
     flex: 1 0 auto;
     margin: 10px;
-    margin-top: 50px;
+    margin-top: 100px;
     padding: 10px;
 }
 
@@ -42,4 +57,7 @@ footer {
     background-color: #ffcb9a;
     color: #000000;
     align-items: flex-end;
+    padding: 20px;
+    text-transform: capitalize;
 } 
+

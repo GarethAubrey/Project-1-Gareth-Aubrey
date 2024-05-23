@@ -18,6 +18,8 @@ header {
     position: fixed;
     width: 100%;
     padding: 10px;
+    display: flex;
+    justify-content: space-between;
 }
 
 a {
@@ -27,12 +29,20 @@ a {
 
 nav {
     display: flex;
-    flex-direction: row;
     justify-content: flex-end;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
 .active {
     color: #000000;
+}
+
+#shop-image {
+    opacity: 0.5;
+    display: flex;
+    justify-content: center;
 }
 
 main {

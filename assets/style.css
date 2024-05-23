@@ -1,0 +1,27 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    background-color: #22df8a;
+    color: #0c0c0c;
+    margin: 10px;
+    position: fixed;
+}
+
+main {
+    background-color: #d1e8e2;
+    color: #000000;
+    /* flex 1 for grow-0 for shrink-auto for basis */
+    flex: 1 0 auto;
+    margin-top: 50px;
+}
+
+footer {
+    background-color: #ffcb9a;
+    color: #000000;
+    margin: 10px;
+    align-items: flex-end;
+} 

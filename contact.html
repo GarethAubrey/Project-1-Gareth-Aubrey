@@ -20,17 +20,47 @@
         <nav>
             <ul class="nav">
                 <li><a href="index.html">Home</a></li>
-                <li><a href="flowers.html">Flowers</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
                 <li><a href="contact.html" class="active">Contact</a></li>
             </ul>
         </nav>
     </header>
     <main>
-        <h2>H2 heading</h2><br>
+        <h2>Contact</h2><br>
 
-        <h3>H3 heading</h3><br>
+        <h3>Fill out for delivery and/or general enquires</h3><br>
 
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil sed assumenda, odit asperiores quis quos ipsa aperiam similique neque nesciunt molestiae optio nam iusto odio blanditiis dolor vel quia architecto?</p>
+       <section id="signup">
+        <form id="sign-up-form" method="post" action="https://formdump.codeinstitute.net">
+            <h3>Delivery/Enquiry form</h2><br>
+
+                <label for="first-name">First Name</label>
+                <input type="text" name="first_name" id="first-name" class="text-input" required>
+                <br>
+
+                <label for="last-name">Last Name</label>
+                <input type="text" name="last_name" id="last-name" class="text-input" required>
+                <br>
+
+                <label for="email-address">Email</label>
+                <input type="email" name="email_address" id="email-address" class="text-input" required>
+                <br>
+
+                <div class="radio-buttons">
+
+                    <div>
+                        <label for="delivery">Delivery</label>
+                        <input type="radio" name="enquiry type" id="delivery" value="delivery" required checked>
+                    </div>
+
+                    <div>
+                        <label for="enquiry">Enquiry</label>
+                        <input type="radio" name="enquiry type" id="enquiry" value="enquiry" required>
+                    </div>
+                    
+        </form>
+
+       </section>
         
     </main>
 

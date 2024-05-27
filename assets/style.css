@@ -12,6 +12,7 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 header {
@@ -52,9 +53,7 @@ main {
     color: #000000;
     /* flex 1 for grow-0 for shrink-auto for basis */
     flex: 1 0 auto;
-    margin: 10px;
-    margin-bottom: 0px;
-    padding: 10px;
+    text-align: center;
 }
 
 h2 {
@@ -63,6 +62,10 @@ h2 {
 
 h3 {
     text-transform: capitalize;
+}
+
+p {
+    padding: 10px;
 }
 
 .images {
@@ -83,8 +86,11 @@ img {
     justify-content: center;
 }
 
-ul {
+.social-media ul {
     list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
 }
 
 .social-media i {

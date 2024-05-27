@@ -16,9 +16,8 @@ body {
 
 header {
     background-color: #7bdbb0;
-    color: #0c0c0c;
+    color: #ffffff;
     z-index: 99;
-    position: fixed;
     top: 0;
     left: 0;
     width: 100%;
@@ -26,14 +25,18 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background-image: url(/assets/images/header-1.pexels.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 a {
     display: flex;
-    flex-direction: column;
-    color: #000000;
+    flex-direction: column;    
     font-size: 1.3rem;
     text-decoration: none;
+    color: #ffffff;
 }
 
 .nav {    
@@ -41,6 +44,7 @@ a {
     margin: 10px;
     list-style-type: none;
     font-size: 1.3rem;
+    font-weight: bold;
 }
 
 main {
@@ -49,13 +53,8 @@ main {
     /* flex 1 for grow-0 for shrink-auto for basis */
     flex: 1 0 auto;
     margin: 10px;
-    margin-top: 120px;
     margin-bottom: 0px;
     padding: 10px;
-   /* background-image: url(/assets/images/flower\ shop.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;*/
 }
 
 h2 {
@@ -74,18 +73,22 @@ h3 {
 }
 
 img {
-    width: 50%;
-    height: 50%;
-    border: 1px solid;
+    height: 80vw;
+    width: 80vw;
+    margin-bottom: 20px;
     border-radius: 50%;
+    max-width: 300px;
+    max-height: 300px;
     display: flex;
-    align-content: center;
+    justify-content: center;
 }
 
-.social-media {
-    display: flex;
-    justify-content: flex-end;
-    justify-content: space-evenly;
+ul {
+    list-style: none;
+}
+
+.social-media i {
+    color: #000000;
 }
 
 footer {
@@ -97,30 +100,5 @@ footer {
     z-index: 100;
 } 
 
-@media only screen and (min-width: 407px) {
-    main {
-        margin-top: 80px;
-    }
 
-    li {
-        display: inline-block;
-    }
-
-    .images {
-        margin-left: 120px;
-        margin-top: 20px;
-    }
-
-}
-
-@media only screen (min-width: 565px) {
-    header {
-        max-width: 90%;
-    }
-
-    .images {
-        margin-left: 50%;
-        margin-top: 40px;
-    }
-}
     

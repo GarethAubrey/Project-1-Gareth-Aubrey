@@ -50,7 +50,7 @@ main {
     flex: 1 0 auto;
     margin: 10px;
     margin-top: 120px;
-    margin-bottom: -50px;
+    margin-bottom: 0px;
     padding: 10px;
    /* background-image: url(/assets/images/flower\ shop.jpg);
     background-size: cover;
@@ -64,6 +64,22 @@ h2 {
 
 h3 {
     text-transform: capitalize;
+}
+
+.images {
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+img {
+    width: 50%;
+    height: 50%;
+    border: 1px solid;
+    border-radius: 50%;
+    display: flex;
+    align-content: center;
 }
 
 .social-media {
@@ -89,11 +105,22 @@ footer {
     li {
         display: inline-block;
     }
+
+    .images {
+        margin-left: 120px;
+        margin-top: 20px;
+    }
+
 }
 
 @media only screen (min-width: 565px) {
     header {
         max-width: 90%;
+    }
+
+    .images {
+        margin-left: 50%;
+        margin-top: 40px;
     }
 }
     

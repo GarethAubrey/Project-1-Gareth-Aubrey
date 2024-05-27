@@ -12,14 +12,15 @@ body {
 }
 
 header {
-    background-color: #22df8a;
+    background-color: #7bdbb0;
     color: #0c0c0c;
     z-index: 99;
     position: fixed;
     width: 100%;
-    padding: 10px;
+    padding: 1.3rem 10%;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 a {
@@ -35,24 +36,18 @@ nav {
     padding: 0;
 }
 
-.active {
-    color: #000000;
-}
-
-#shop-image {
-    opacity: 0.5;
-    display: flex;
-    justify-content: center;
-}
-
 main {
     background-color: #d1e8e2;
     color: #000000;
     /* flex 1 for grow-0 for shrink-auto for basis */
     flex: 1 0 auto;
     margin: 10px;
-    margin-top: 100px;
+    margin-top: 85px;
     padding: 10px;
+   /* background-image: url(/assets/images/flower\ shop.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;*/
 }
 
 h2 {
@@ -71,3 +66,9 @@ footer {
     text-transform: capitalize;
 } 
 
+@media only screen and (max-width: 407px) {
+    header {
+        width: auto;
+        display: flex;
+    }
+}

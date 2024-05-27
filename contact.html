@@ -28,9 +28,8 @@
     <main>
         <h2>Contact</h2><br>
 
-        <h3>Fill out for delivery and/or general enquires</h3><br>
-
-       <section id="signup">
+        <section id="signup">
+        <h3>Fill out for general enquires and we will send you a link via email to fill out.</h3><br>
         <form id="sign-up-form" method="post" action="https://formdump.codeinstitute.net">
             <h3>Delivery/Enquiry form</h2><br>
 
@@ -48,18 +47,23 @@
 
                 <div class="radio-buttons">
 
-                    <div>
-                        <label for="delivery">Delivery</label>
-                        <input type="radio" name="enquiry type" id="delivery" value="delivery" required checked>
-                    </div>
+                <button type="submit" class="submit">Submit</button>
+         </form>
 
-                    <div>
-                        <label for="enquiry">Enquiry</label>
-                        <input type="radio" name="enquiry type" id="enquiry" value="enquiry" required>
-                    </div>
-                    
-        </form>
-
+       </section>
+<br>
+       <section id="signup">
+        <p>Send us your postcode and phone number and we will contact you via phone to arrange flowers and delivery.</p>
+                <form action="https://formdump.codeinstitute.net" id="delivery-addres" method="post">
+                    <label for="phone-number">Phone Number</label>
+                    <input type="number" name="phone-number" class="text-input" required>
+                    <br>
+                    <label for="delivery-postcode">Delivery Postcode</label>
+                    <input type="text" name="delivery-postcode" class="text-input" required>
+                    <br>
+                    <br>
+                    <button type="submit" class="submit">Send</button>
+                </form>
        </section>
         
     </main>

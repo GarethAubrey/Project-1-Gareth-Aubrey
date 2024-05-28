@@ -167,6 +167,14 @@ footer {
 }
     
 @media only screen and (min-width: 768px) {
+
+    header {
+        background-image: url(../assets/images/header-2.pexels.webp);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
     .gallery-images {
         padding-left: 225px;
         padding-top: 20px;
@@ -192,6 +200,11 @@ footer {
 }
 
 @media only screen and (min-width: 1440px) {
+
+    header {
+        background-image: none;
+        background-color: #ff85b4;
+    }
     .gallery-images {
         padding-left: 550px;
         padding-top: 25px;

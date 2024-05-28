@@ -46,6 +46,7 @@ a {
     list-style-type: none;
     font-size: 1.3rem;
     font-weight: bold;
+    width: fit-content;
 }
 
 main {
@@ -68,10 +69,11 @@ p {
     padding: 10px;
 }
 
-.images {
+.images-home {
+    padding-left: 30px;
     display: flex;
     align-content: center;
-    flex-direction: column;
+    flex-direction: row;
     flex-wrap: wrap;
 }
 
@@ -92,9 +94,10 @@ h4 {
 }
 
 .gallery-images {
-    width: auto;
-    padding-left: 30px;
+    width: 100%;
+    padding-left: 38px;
     padding-top: 10px;
+    line-height: 1em;
 }
 
 #signup {
@@ -155,9 +158,20 @@ footer {
     z-index: 100;
 } 
 
+@media only screen and (min-width: 325px) {
+    .images-home {
+        padding-left: 36px;
+    }
+    
+}
+
 @media only screen and (min-width: 425px) {
        a {
-        font-size: 0.75rem;
+        font-size: 1rem;
+       }
+
+       .images-home {
+        padding-left: 60px;
        }
 
        .gallery-images {
@@ -175,9 +189,17 @@ footer {
         background-size: cover;
     }
 
+    .images-home {
+        display: flex;
+        padding: 50px;
+        margin: 10px;
+        justify-content: space-between;
+    }
+
     .gallery-images {
-        padding-left: 225px;
         padding-top: 20px;
+        flex-direction: column;
+        column-count: 2;
     }
 
     a {
@@ -193,9 +215,18 @@ footer {
 }
 
 @media only screen and (min-width: 1024px) {
+
+    .images-home {
+        justify-content: space-evenly;
+    }
+
     .gallery-images {
-        padding-left: 350px;
+        padding-bottom: 10px;
+        padding-right: 60px;
         padding-top: 25px;
+        flex-direction: column;
+        column-count: 3;
+        gap: 1.2;
     }
 }
 
@@ -206,8 +237,8 @@ footer {
         background-color: #ff85b4;
     }
     .gallery-images {
-        padding-left: 550px;
         padding-top: 25px;
-        flex: display;
+        justify-content: space-evenly;
+        column-count: 4;
     }
 }

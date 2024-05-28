@@ -79,7 +79,7 @@ img {
     height: 80vw;
     width: 80vw;
     margin-bottom: 20px;
-    border-radius: 50%;
+    border-radius: 20%;
     max-width: 300px;
     max-height: 300px;
     display: flex;
@@ -89,12 +89,6 @@ img {
 
 .gallery-images {
     width: auto;
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    margin-bottom: 0;
-    border-radius: 0;
-    flex-grow: inherit;
     padding-left: 30px;
     padding-top: 10px;
 }

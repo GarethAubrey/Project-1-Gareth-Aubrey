@@ -35,7 +35,7 @@ header {
 a {
     display: flex;
     flex-direction: column;    
-    font-size: 1.3rem;
+    font-size: 1rem;
     text-decoration: none;
     color: #ffffff;
 }
@@ -78,13 +78,17 @@ p {
 img {
     height: 80vw;
     width: 80vw;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     border-radius: 20%;
     max-width: 300px;
     max-height: 300px;
     display: flex;
     justify-content: center;
     gap: 1;
+}
+
+h4 {
+    margin-bottom: 7px;
 }
 
 .gallery-images {
@@ -151,5 +155,46 @@ footer {
     z-index: 100;
 } 
 
+@media only screen and (min-width: 425px) {
+       a {
+        font-size: 0.75rem;
+       }
 
+       .gallery-images {
+        padding-left: 60px;
+        padding-top: 10px;
+       }
+}
     
+@media only screen and (min-width: 768px) {
+    .gallery-images {
+        padding-left: 225px;
+        padding-top: 20px;
+    }
+
+    a {
+        font-size: 1.5rem;
+        display: flex;
+        flex-direction: row;
+    }
+
+    nav {
+        display: flex;
+        flex-direction: row;
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    .gallery-images {
+        padding-left: 350px;
+        padding-top: 25px;
+    }
+}
+
+@media only screen and (min-width: 1440px) {
+    .gallery-images {
+        padding-left: 550px;
+        padding-top: 25px;
+        flex: display;
+    }
+}

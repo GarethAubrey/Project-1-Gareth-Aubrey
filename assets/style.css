@@ -16,7 +16,6 @@ body {
 }
 
 header {
-    background-color: #7bdbb0;
     color: #ffffff;
     z-index: 99;
     top: 0;
@@ -41,18 +40,13 @@ a {
 }
 
 .nav {    
-    text-decoration: none;
-    margin: 10px;
     list-style-type: none;
-    font-size: 1.3rem;
     font-weight: bold;
-    width: fit-content;
 }
 
 main {
     background-color: #d1e8e2;
     color: #000000;
-    /* flex 1 for grow-0 for shrink-auto for basis */
     text-align: center;
 }
 

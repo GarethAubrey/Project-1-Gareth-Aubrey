@@ -51,6 +51,7 @@ main {
 }
 
 h2 {
+    padding: 10px;
     text-transform: uppercase;
 }
 
@@ -94,7 +95,7 @@ h4 {
 }
 
 #signup {
-    background-color: #f59134;
+    background-color: #f8b858;
     background-position: 50%;
     padding: 20px 10% 0 10%;
     flex-grow: 1;
@@ -143,13 +144,18 @@ h4 {
 }
 
 footer {
-    background-color: #ffb671;
+    background-color: #faac46;
     color: #000000;
     align-items: flex-end;
     padding: 20px;
     text-transform: capitalize;
     z-index: 100;
 } 
+
+.footer-contact {
+    background-color: #d1e8e2;
+}
+    
 
 @media only screen and (min-width: 325px) {
     .images-home {

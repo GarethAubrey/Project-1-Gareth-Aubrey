@@ -257,7 +257,7 @@ footer {
         min-width: 100px;
     }
     .gallery-images {
-        padding-top: 25px;
+        padding-top: 85px;
         justify-content: space-evenly;
         column-count: 4;
     }

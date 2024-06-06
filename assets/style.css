@@ -238,6 +238,11 @@ footer {
 }
 
 @media only screen and (min-width: 1440px) {
+   
+    main {
+        padding-bottom: 75px;
+        
+    }
 
     header {
         background-image: none;
@@ -269,6 +274,10 @@ footer {
     #signup-bottom {
         background-color: #d9b08c
     }
+}
 
-
+@media only screen and (min-width: 2560px) {
+    main {
+        padding-bottom: 95px;
+    }
 }

@@ -133,8 +133,8 @@ h4 {
 }
 
 .submit {
-    border-radius: 2px;
-    padding: 15px 32px;
+    border-radius: 5px;
+    padding: 15px 32px 10px;
     font-size: 100%;
     background-color: #ffffff;
     color: #000000;
@@ -256,6 +256,11 @@ footer {
     .nav {
         min-width: 100px;
     }
+
+    .images-home {
+        padding: 63px;
+    }
+
     .gallery-images {
         padding-top: 130px;
         padding-bottom: 30px;
@@ -288,8 +293,9 @@ footer {
     }
 
     .gallery-images {
-        padding-top: 100px;
-        padding-left: 60px;
+        padding-top: 113px;
+        padding-left: 220px;
+        padding-bottom: 100px;
         justify-content: space-evenly;
         column-count: 4;
     }

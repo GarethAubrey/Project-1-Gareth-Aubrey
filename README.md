@@ -97,3 +97,22 @@ I used the W3C markup validator and W3C CSS validator services to validate all t
   ![Contact HTML val-1](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/afe674f1-1546-474b-9240-9183df125df5)
 
 Following the validator results for contact.html this bug will be rectified and logged as a fixed bug. 
+<div align="center">
+
+## Manual testing
+
+</div>
+
+
+* I tested the website on Samsung internet, google chrome and microsoft edge.
+* The website was also tested on Mobile, Laptop, Desktop and Large widescreen monitor.
+* The website link was sent to famil and friends for testing.
+* Navigation links were tested on all devices.
+<div align="center">
+
+##  Lighthouse report
+
+</div>
+
+
+

@@ -1,5 +1,8 @@
+<div align="center">
+
 # Tracey Anns Florist
 
+</div>
 Tracey Anns Florist is a website that people can use to order flowers online to any part of the British mainland, the customers will arrive on our main page which has 2 short paragraphs containing information on
 how the buisness started and also a small amout of information on the different needs the business can cater for. This is done by using 2 different enquiry forms on our contact page
 with the top form allowing people to send a basic enquiry and the bottom form allowing them to send an enquriy direct to the sales department who will in turn contact the customer directly.
@@ -9,8 +12,12 @@ The website has been designed mobile first and is simple to use keeping all cust
 ease.
 
 ![screenshots](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/e7e9e7fa-6876-4338-b95a-5da3daf08dbe)
+<div align="center">
 
 ## Design
+
+</div>
+
 
 ### Colour scheme  
 
@@ -23,8 +30,13 @@ ease.
 
 ### Wireframes  
 * Tools mainly used were a pen and paper but occasionaly using notepad.  
+<div align="center">
 
 ## Features  
+
+</div>
+
+
 * The website is aimed at people who wish to order flowers online and send to anywhere in the country to someones home or buisness.
 * This is done by filling out one of the two enquiry forms on the contact page.
 * The website is responsive on all device sizes.
@@ -42,19 +54,33 @@ or using the logo to return to the home page. The navigation bar will change bac
 * The gallery page features 1 main heading and 8 images.
 * the contact page consists of 1 main heading and 2 enquiry forms with their own headings.
 * all pages have a footer with socail media links that will take the customer to the companies pages on the relevant social media platform.
+<div align="center">
 
 ## Technologies Used
+
+</div>
+
+
 * HTML5
 * CSS3
+<div align="center">
 
 ## Frameworks, Libraries and Programmes used
+
+</div>
+
+
 * Git - for version control.
 * Github - Deployment of the website and storing the files online.
 * Gitpod - for writing the code.
 * Google Fonts - importing of fonts.
 * Am I Repsonsive - Mockup of different screenshots for README file.
+<div align="center">
 
 ## Testing
+
+</div>
+
 
 I used the W3C markup validator and W3C CSS validator services to validate all the code used to ensure there were no errors in any of the code used.
 

@@ -3,9 +3,7 @@
 # Tracey Anns Florist
 
 </div>
-Tracey Anns Florist is a website that people can use to order flowers online to any part of the British mainland, the customers will arrive on our main page which has 2 short paragraphs containing information on
-how the buisness started and also a small amout of information on the different needs the business can cater for. This is done by using 2 different enquiry forms on our contact page
-with the top form allowing people to send a basic enquiry and the bottom form allowing them to send an enquriy direct to the sales department who will in turn contact the customer directly.
+Tracey Anns Florist is a website that people can use to order flowers online to any part of the British mainland, the customers will arrive on our main page which has 2 short paragraphs containing information on how the buisness started and also a small amout of information on the different needs the business can cater for. On the contact page there is an enquiry/delivery form for potential customers to send their information to the buisness and they can be contacted by someone in the sales department to answer any questions or get order and delivery details.
 
 Customers can also have a look on our gallery page that will show them several different photos from our buisness, these photos are designed to give the customer an insight into how the buisness works and looks.
 The website has been designed mobile first and is simple to use keeping all customers in mind so everyone can use it no matter there ability, the navigation bar at the top of all pages takes the customer to the correct page with 

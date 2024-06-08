@@ -54,6 +54,11 @@ or using the logo to return to the home page. The navigation bar will change bac
 * The gallery page features 1 main heading and 8 images.
 * the contact page consists of 1 main heading and 2 enquiry forms with their own headings.
 * all pages have a footer with socail media links that will take the customer to the companies pages on the relevant social media platform.
+
+### Features left to implement
+
+* Videography added to the gallery from an event that has been catered for.
+* Timescales added on an extra page so customers can see where their orders are in terms of being made up through to delivery.
 <div align="center">
 
 ## Technologies Used
@@ -86,17 +91,22 @@ I used the W3C markup validator and W3C CSS validator services to validate all t
 
 * W3C HTML checker for index.html -
   
-  ![HTML validator results 1](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/224a877e-93d7-4285-96fb-5dfb34c7d65c)
+ ![HTML validator results 1](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/224a877e-93d7-4285-96fb-5dfb34c7d65c)
 
 * W3C HTML checker for gallery.html -
   
-  ![HTML validator results 1](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/7f342a0a-db0b-4875-b7e4-9e02dfe73b7d)
+![HTML validator gallery](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/ee7147a7-ae2c-4ea2-8be6-90c19c2c2c45)
 
 * W3C HTML checker for contact.html -
   
-  ![Contact HTML val-1](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/afe674f1-1546-474b-9240-9183df125df5)
+ ![Contact HTML val-1](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/afe674f1-1546-474b-9240-9183df125df5)
 
 Following the validator results for contact.html this bug will be rectified and logged as a fixed bug. 
+
+*W3C HTML checker for contact.html (updated)
+
+![HTML validator contact updated](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/72e0f3be-0c26-4392-a7a7-8b92e200f353)
+
 <div align="center">
 
 ## Manual testing

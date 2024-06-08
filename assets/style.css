@@ -51,6 +51,7 @@ main {
     color: #000000;
     text-align: center;
     padding-bottom: 10px;
+    flex: 1 0 auto;
 }
 
 h2 {
@@ -94,6 +95,10 @@ h4 {
     padding-left: 38px;
     padding-top: 10px;
     line-height: 1em;
+}
+
+.main-contact {
+    flex: 1 0 auto;
 }
 
 #signup {
@@ -149,7 +154,7 @@ h4 {
 }
 
 .social-media i {
-    color: #000000;
+    color: #ffffff;
 }
 
 footer {
@@ -171,17 +176,10 @@ footer {
         padding-left: 36px;
     }
 
-    .main-contact {
-        padding-bottom: 150px;
-    }
-    
 }
 
 @media only screen and (min-width: 425px) {
 
-        .main-contact {
-         padding-bottom: 185px;
-       }
        a {
         font-size: 1rem;
        }
@@ -203,10 +201,6 @@ footer {
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
-    }
-
-    .main-contact {
-        padding-bottom: 186px;
     }
 
     .images-home {
@@ -236,10 +230,6 @@ footer {
 
 @media only screen and (min-width: 1024px) {
 
-    .main-contact {
-        padding-bottom: 224px;
-    }
-
     .images-home {
         justify-content: space-evenly;
     }
@@ -255,18 +245,6 @@ footer {
 
 @media only screen and (min-width: 1440px) {
    
-    main {
-        padding-bottom: 75px;
-    }
-
-    .main-home {
-        padding-bottom: 110px;
-    }
-
-    .main-gallery {
-        padding-bottom: 124px;
-    }
-
     header {
         background-image: none;
         background-color: #fc9ec2;
@@ -310,19 +288,7 @@ footer {
 }
 
 @media only screen and (min-width: 2560px) {
-    main {
-        padding-bottom: 10px;
-        text-size-adjust: 150%;
-    }
-
-    .main-home {
-        padding-bottom: 59px;
-    }
-
-    .main-gallery {
-        padding-bottom: 70px;
-    }
-
+    
     .gallery-images {
         padding-top: 113px;
         padding-left: 220px;

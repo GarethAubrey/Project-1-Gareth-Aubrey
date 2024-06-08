@@ -51,8 +51,27 @@ or using the logo to return to the home page. The navigation bar will change bac
 * Each page has its own main heading with the home pages main heading being "Online florist for any occasion", the gallery page is headed with "Gallery" and the contact page is headed by "Contact".
 
 * The home page features 1 main heading, 2 paragraphs with their own headings followed by 4 labelled images as examples of different occasions.
+<div align="center">
+  
+![Mobile homepage](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/741545d0-34f3-45c2-a09e-ff52862b0793)
+
+</div>
+
 * The gallery page features 1 main heading and 8 images.
-* the contact page consists of 1 main heading and 2 enquiry forms with their own headings.
+<div align="center">
+
+![Mobile gallery page](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/c93990e2-aa82-4f22-b63d-747f3417316e)
+
+</div>
+
+* the contact page consists of 1 main heading and a delivery/enquiry form with its own heading.
+
+ <div align="center">
+
+![mobile contact page 1](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/9928408c-7f8e-4283-95c9-1c8783983389)
+
+</div>
+
 * all pages have a footer with socail media links that will take the customer to the companies pages on the relevant social media platform.
 
 ### Features left to implement
@@ -118,6 +137,18 @@ Following the validator results for contact.html this bug will be rectified and 
 * The website was also tested on Mobile, Laptop, Desktop and Large widescreen monitor.
 * The website link was sent to famil and friends for testing.
 * Navigation links were tested on all devices.
+* I have tested that the form on the contact page works properly.
+
+<div align="center">
+
+## Bugs
+
+</div>
+
+* On lighthouse report it was stated that my colours on contact page were not the best for contrast and readability so after looking at different colours and trying
+different shades i found one that worked and also took the opacity off the text input boxes to make this easier for people to see.
+
+</div>
 <div align="center">
 
 ##  Lighthouse report
@@ -125,4 +156,49 @@ Following the validator results for contact.html this bug will be rectified and 
 </div>
 
 
+* Home page Lighthouse results
 
+![lighthouse home](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/c1bb351f-ae34-45ff-9f5c-fa63175bf687)
+
+* Gallery page Lighthouse results
+
+![lighthouse gallery](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/19cf093a-a85a-47bb-b023-42c3c93abfce)
+
+* Contact page Lighthouse results
+
+![lighthouse contact](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/ec4010c3-05ee-4df8-bc46-95f10fb4dbf9)
+
+
+<div align="center">
+
+## Deployment
+
+</div>
+
+The website was deployed using Github (this creates a live version of the website), This achieved by - 
+
+* Going to your Github repository and looking for the settings tab.
+* From the source drop-down menu you click on master branch.
+* After the master branch has been clicked a link was provided to the website. 
+
+Click on the link below to see the finished website - 
+
+https://garethaubrey.github.io/Project-1-Gareth-Aubrey/
+<div align="center">
+
+## Credits
+
+</div>
+
+### Content
+
+* The code for the sign up/enquiry form was taken from Code Institute Love running project.
+
+
+### media 
+
+* The images used on the website were taken from Pexels.
+
+### Acknowledgements
+
+* My mentor Mitko Bachvarov provided me with help for the README file and some Flexbox properties.

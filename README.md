@@ -112,15 +112,9 @@ I used the W3C markup validator and W3C CSS validator services to validate all t
 
 * W3C HTML checker for gallery.html -
   
-![HTML validator gallery](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/ee7147a7-ae2c-4ea2-8be6-90c19c2c2c45)
+![HTML validator gallery](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/ee7147a7-ae2c-4ea2-8be6-90c19c2c2c45) 
 
-* W3C HTML checker for contact.html -
-  
- ![Contact HTML val-1](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/afe674f1-1546-474b-9240-9183df125df5)
-
-Following the validator results for contact.html this bug will be rectified and logged as a fixed bug. 
-
-*W3C HTML checker for contact.html (updated)
+*W3C HTML checker for contact.html
 
 ![HTML validator contact updated](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/72e0f3be-0c26-4392-a7a7-8b92e200f353)
 

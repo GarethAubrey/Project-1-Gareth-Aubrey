@@ -8,8 +8,11 @@ Tracey Anns Florist is a website that people can use to order flowers online to 
 Customers can also have a look on our gallery page that will show them several different photos from our buisness, these photos are designed to give the customer an insight into how the buisness works and looks.
 The website has been designed mobile first and is simple to use keeping all customers in mind so everyone can use it no matter there ability, the navigation bar at the top of all pages takes the customer to the correct page with 
 ease.
+<div align="center">
 
-![screenshots](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/e7e9e7fa-6876-4338-b95a-5da3daf08dbe)
+![AmiResponsive](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/052c4b6a-cfc8-4ec4-b5c2-4d9cb24f5e61)
+
+</div>
 <div align="center">
 
 ## Design

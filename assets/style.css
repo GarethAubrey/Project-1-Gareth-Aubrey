@@ -38,12 +38,23 @@ a {
     flex-direction: column;    
     font-size: 1rem;
     text-decoration: none;
-    color: #fafafa;
+    color: #ffffff;
 }
 
 .nav {    
     list-style-type: none;
     font-weight: bold;
+}
+
+header nav {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+nav li {
+    display: inline-flex;
+    margin-right: 2px;
+    letter-spacing: 2px;
 }
 
 main {
@@ -54,16 +65,17 @@ main {
     flex: 1 0 auto;
 }
 
-h2 {
+#main-h2 {
     padding: 10px;
     text-transform: uppercase;
 }
 
-h3 {
+#main-h3 {
     text-transform: capitalize;
+    padding: auto;
 }
 
-p {
+#main-p {
     padding: 10px;
 }
 
@@ -73,6 +85,34 @@ p {
     align-content: center;
     flex-direction: row;
     flex-wrap: wrap;
+}
+
+#wedding:hover {
+    background-color: #d1e8e2;
+    cursor: pointer;
+    transform: scale(1.10);
+    transition: all 1s ease-in-out;
+}
+
+#funerals:hover {
+    background-color: #d1e8e2;
+    cursor: pointer;
+    transform: scale(1.10);
+    transition: all 1s ease-in-out;
+}
+
+#valentines:hover {
+    background-color: #d1e8e2;
+    cursor: pointer;
+    transform: scale(1.10);
+    transition: all 1s ease-in-out;
+}
+
+#mothers-day:hover {
+    background-color: #d1e8e2;
+    cursor: pointer;
+    transform: scale(1.10);
+    transition: all 1s ease-in-out;
 }
 
 img {
@@ -91,10 +131,10 @@ h4 {
 }
 
 .gallery-images {
-    width: 100%;
-    padding-left: 38px;
-    padding-top: 10px;
-    line-height: 1em;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        flex-wrap: wrap;
 }
 
 .main-contact {
@@ -150,7 +190,7 @@ h4 {
 }
 
 footer {
-    background-color: #faac46;
+    background-color: #b49162;
     color: #000000;
     align-items: flex-end;
     padding: 20px;
@@ -181,18 +221,41 @@ footer {
        }
 
        .gallery-images {
-        padding-left: 50px;
         padding-top: 10px;
        }
+}
+
+@media only screen and (min-width: 460px) {
+    
+    .images-home {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media only screen and (max-width: 490px) {
+    nav li {
+        display: contents;
+    }
+    
+}
+
+@media only screen and (min-width: 773px) {
+
+    a {
+        color: #000000;
+    }
 }
     
 @media only screen and (min-width: 768px) {
 
     header {
-        background-image: url(../assets/images/header-2.pexels.webp);
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
+        background-color: #99795d;
+        background-image: none;
+    }
+
+    main {
+        background-image: url(../assets/images/background.1.pexels.jpeg);
     }
 
     .images-home {
@@ -202,10 +265,19 @@ footer {
         justify-content: space-between;
     }
 
+    #wedding:hover, #funerals:hover, #valentines:hover, #mothers-day:hover {
+        background-color: #99795d;
+        cursor: pointer;
+        transform: scale(1.10);
+        transition: all 1s ease-in-out;
+        border-radius: 10%;
+    }
+
     .gallery-images {
         padding-top: 30px;
-        flex-direction: column;
+        flex-direction: row;
         column-count: 2;
+        justify-content: space-around;
     }
 
     a {
@@ -222,15 +294,24 @@ footer {
 
 @media only screen and (min-width: 1024px) {
 
+    main {
+        background-image: none;
+    }
+
+    header {
+        background-image: url(../assets/images/yellowbackground.pexels.webp);
+        background-position: center;
+        /*background-repeat: no-repeat;*/
+        background-size: cover;
+    }
+    
     .images-home {
         justify-content: space-evenly;
     }
 
     .gallery-images {
         padding-bottom: 10px;
-        padding-right: 60px;
         padding-top: 25px;
-        flex-direction: column;
         column-count: 3;
     }
 }
@@ -251,7 +332,12 @@ footer {
     }
 
     .images-home {
-        padding: 63px;
+        padding-top: 130px;
+        padding-bottom: 30px;
+        margin: 10px;
+        flex-direction: row;
+        justify-content: space-evenly;
+        column-count: 4;
     }
 
     .gallery-images {

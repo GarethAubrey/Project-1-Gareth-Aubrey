@@ -75,19 +75,10 @@ main {
     padding: auto;    
 }
 
-#main-h3:hover {
-    transform: rotate(360deg);
-    transition: 1s all ease;
-}
-
 #main-p {
     padding: 10px;
 }
 
-#main-p:hover {
-    transform: rotate(360deg);
-    transition: 1s all ease;   
-}
 /*Style for home page images*/
 .images-home {
     padding-left: 30px;

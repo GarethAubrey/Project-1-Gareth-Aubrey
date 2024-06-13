@@ -5,7 +5,7 @@
     margin: 0;
     box-sizing: border-box;
 }
-
+/*Main body of website*/
 body {
     min-height: 100vh;
     display: flex;
@@ -13,7 +13,7 @@ body {
     font-family: 'Times New Roman', Times, serif;
     color: #000000;
 }
-
+/*header styles*/
 header {
     z-index: 99;
     top: 0;
@@ -32,7 +32,7 @@ header {
 .header-contact {
     background-color: #116466;
 }
-
+/*Href link styles*/
 a {
     display: flex;
     flex-direction: column;    
@@ -40,7 +40,7 @@ a {
     text-decoration: none;
     color: #ffffff;
 }
-
+/*Nav bar styles*/
 .nav {    
     list-style-type: none;
     font-weight: bold;
@@ -56,7 +56,7 @@ nav li {
     margin-right: 2px;
     letter-spacing: 2px;
 }
-
+/*Main content styles*/
 main {
     background-color: #d1e8e2;
     color: #000000;
@@ -88,7 +88,7 @@ main {
     transform: rotate(360deg);
     transition: 1s all ease;   
 }
-
+/*Style for home page images*/
 .images-home {
     padding-left: 30px;
     display: flex;
@@ -103,7 +103,7 @@ main {
     transform: scale(1.10);
     transition: all 1s ease-in-out;
 }
-
+/*styles for hover properties*/
 #funerals:hover {
     background-color: #d1e8e2;
     cursor: pointer;
@@ -139,7 +139,7 @@ img {
 h4 {
     margin-bottom: 7px;
 }
-
+/*styles for gallery page*/
 #gallery-h2 {
     display: flex;
     justify-content: center;
@@ -155,7 +155,7 @@ h4 {
     flex-wrap: wrap;
     margin-top: 10px;
 }
-
+/*Styles for contact page*/
 #contact-h2 {
     display: flex;
     justify-content: center;
@@ -208,7 +208,7 @@ h4 {
     color: #000000;
     align-items: center;
 }
-
+/*Styles for social media links in footer*/
 .social-media ul {
     list-style: none;
     display: flex;
@@ -219,7 +219,7 @@ h4 {
 .social-media i {
     color: #ffffff;
 }
-
+/*Styles for footer*/
 footer {
     background-color: #b49162;
     color: #000000;
@@ -233,21 +233,21 @@ footer {
     background-color: #116466;
 }
     
-
+/*@media for mobile screens*/
 @media only screen and (min-width: 320px) {
     .images-home {
         padding-left: 36px;
     }
 
 }
-
+/*@media for Medium mobile screens*/
 @media only screen and (min-width: 425px) {
 
        a {
         font-size: 1rem;
        }
 }
-
+/*@media for large mobile screens*/
 @media only screen and (min-width: 460px) {
     
     .images-home {
@@ -255,7 +255,7 @@ footer {
         flex-direction: column;
     }
 }
-
+/*@media for larger mobile screens*/
 @media only screen and (max-width: 490px) {
     nav li {
         display: contents;
@@ -266,7 +266,7 @@ footer {
     }
     
 }
-
+/*@media for tablet screens*/
 @media only screen and (min-width: 773px) {
 
     a {
@@ -325,7 +325,7 @@ footer {
         opacity: 0.7;
     }
 }
-
+/*@media for laptop screens*/
 @media only screen and (min-width: 1024px) {
 
     main {
@@ -349,7 +349,7 @@ footer {
         display: flex
     }
 }
-
+/*@media for desktop screens*/
 @media only screen and (min-width: 1440px) {
    
     header {
@@ -411,7 +411,7 @@ footer {
 
 
 }
-
+/*@media for large desktop screens*/
 @media only screen and (min-width: 2560px) {
     
     .gallery-images {

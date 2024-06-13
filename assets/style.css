@@ -131,14 +131,23 @@ h4 {
 }
 
 .gallery-images {
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-        flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+
+#contact-h2 {
+    display: flex;
+    justify-content: center;
 }
 
 .main-contact {
-    flex: 1 0 auto;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    padding: 10px;
 }
 
 #signup {
@@ -148,13 +157,16 @@ h4 {
     flex-grow: 1;
 }
 
-#signup-form > h2 {
-    color: #fafafa;
-    margin-bottom: 20px;
+#signup-form {
+    padding-top: 100px;
+}
+
+#contact-h3 {
+    color: #000000;
 }
 
 .text-input {
-    color: #d8d4d4; 
+    color: #000000; 
     width: 100%;
     height: 25px;
     margin: 5px 0 20px 0;
@@ -215,14 +227,6 @@ footer {
        a {
         font-size: 1rem;
        }
-
-       .images-home {
-        padding-left: 60px;
-       }
-
-       .gallery-images {
-        padding-top: 10px;
-       }
 }
 
 @media only screen and (min-width: 460px) {
@@ -260,7 +264,6 @@ footer {
 
     .images-home {
         display: flex;
-        padding: 50px;
         margin: 10px;
         justify-content: space-between;
     }
@@ -310,8 +313,6 @@ footer {
     }
 
     .gallery-images {
-        padding-bottom: 10px;
-        padding-top: 25px;
         column-count: 3;
     }
 }
@@ -332,8 +333,6 @@ footer {
     }
 
     .images-home {
-        padding-top: 130px;
-        padding-bottom: 30px;
         margin: 10px;
         flex-direction: row;
         justify-content: space-evenly;
@@ -341,8 +340,6 @@ footer {
     }
 
     .gallery-images {
-        padding-top: 130px;
-        padding-bottom: 30px;
         margin: 10px;
         justify-content: space-evenly;
         column-count: 4;
@@ -368,11 +365,8 @@ footer {
 @media only screen and (min-width: 2560px) {
     
     .gallery-images {
-        padding-top: 113px;
-        padding-left: 220px;
-        padding-bottom: 100px;
         justify-content: space-evenly;
-        column-count: 4;
+        column-count: 4;  
     }
 
     p {

@@ -26,27 +26,28 @@
         </nav>
     </header>
     <main class="main-contact">
-        <h2>Contact</h2><br>
-
+        
         <section id="signup">
             
-        <h3>Fill out for general enquires or delivery and we will send you a link via email to fill out.</h3><br>
+        <div id="contact-h3"><h3>Fill out for general enquires or delivery and we will send you a link via email to fill out.</h3></div>
 
         <form id="signup-form" method="post" action="https://formdump.codeinstitute.net">
-            <h3>Enquiry/delivery form</h3><br>
+            <h3 id="contact-h3">Enquiry/delivery form</h3>
 
                 <label for="first-name">First Name</label>
                 <input type="text" name="first_name" id="first-name" class="text-input" required>
-                <br>
+                
 
                 <label for="last-name">Last Name</label>
                 <input type="text" name="last_name" id="last-name" class="text-input" required>
-                <br>
+                
 
                 <label for="email-address">Email</label>
                 <input type="email" name="email_address" id="email-address" class="text-input" required>
-                <br>
 
+                <label for="enquiry-form">Enquiry/Delivery details</label>
+                <textarea id="enquiry-form" class="text-input" rows="10" cols="150" placeholder="Write enquiry or delivery deatils here" required></textarea>
+                
                 <div class="radio-buttons">
 
                 <button type="submit" class="submit">Submit</button>

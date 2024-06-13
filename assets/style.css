@@ -23,7 +23,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-image: url(../assets/images/header-1.pexels.jpeg);
+    background-image: url(../assets/images/header1.pexels.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -138,6 +138,14 @@ img {
 
 h4 {
     margin-bottom: 7px;
+}
+
+#gallery-h2 {
+    display: flex;
+    justify-content: center;
+    background-color: #b49162;
+    text-transform: capitalize;
+    padding: 5px;
 }
 
 .gallery-images {
@@ -326,9 +334,8 @@ footer {
     }
 
     header {
-        background-image: url(../assets/images/yellowbackground.pexels.webp);
         background-position: center;
-        /*background-repeat: no-repeat;*/
+        background-repeat: no-repeat;
         background-size: cover;
     }
     
@@ -383,6 +390,10 @@ footer {
         color: #000000;
     }
 
+    #gallery-h2 {
+        background-color: #ffb4d1;
+    }
+
     .gallery-images {
         margin-top: 117px;
     }
@@ -393,22 +404,18 @@ footer {
     }
 
     #signup {
-        background-color: #d9b08c;
+        color: #000000;
         padding-bottom: 1%;
     }
 
-    #signup-bottom {
-        background-color: #d9b08c;
-        padding-bottom: 1%;
-    }
+
+
 }
 
 @media only screen and (min-width: 2560px) {
     
     .gallery-images {
         display: block;
-        /*justify-content: center;
-        flex-direction: column;*/  
         columns: 4;
         padding-left: 200px;
     }

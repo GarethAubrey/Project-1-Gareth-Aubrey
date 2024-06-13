@@ -72,11 +72,21 @@ main {
 
 #main-h3 {
     text-transform: capitalize;
-    padding: auto;
+    padding: auto;    
+}
+
+#main-h3:hover {
+    transform: rotate(360deg);
+    transition: 1s all ease;
 }
 
 #main-p {
     padding: 10px;
+}
+
+#main-p:hover {
+    transform: rotate(360deg);
+    transition: 1s all ease;   
 }
 
 .images-home {
@@ -242,6 +252,10 @@ footer {
     nav li {
         display: contents;
     }
+
+    .gallery-images {
+        justify-content: space-evenly;
+    }
     
 }
 
@@ -261,6 +275,10 @@ footer {
 
     main {
         background-image: url(../assets/images/background.1.pexels.jpeg);
+    }
+
+    h2, h3, h4, p, .text-input, label {
+        font-size: x-large;
     }
 
     .images-home {
@@ -294,12 +312,17 @@ footer {
         display: flex;
         flex-direction: row;
     }
+
+    #signup {
+        opacity: 0.7;
+    }
 }
 
 @media only screen and (min-width: 1024px) {
 
     main {
         background-image: none;
+        background-color: #eec56c;
     }
 
     header {
@@ -314,7 +337,9 @@ footer {
     }
 
     .gallery-images {
-        column-count: 3;
+        max-width: 100%;
+        height: auto;
+        display: flex
     }
 }
 
@@ -323,6 +348,11 @@ footer {
     header {
         background-image: none;
         background-color: #fc9ec2;
+    }
+
+    main {
+        background-color: #000000;
+        color: #fc9ec2;
     }
 
     h2, h3, h4, p, .text-input, label {
@@ -344,10 +374,17 @@ footer {
         column-count: 4;
     }
 
+    #wedding:hover, #funerals:hover, #valentines:hover, #mothers-day:hover {
+        background-color: #ffffff;
+        cursor: pointer;
+        transform: scale(1.10);
+        transition: all 1s ease-in-out;
+        border-radius: 10%;
+        color: #000000;
+    }
+
     .gallery-images {
-        margin: 10px;
-        justify-content: space-evenly;
-        column-count: 4;
+        margin-top: 117px;
     }
 
     footer {
@@ -369,8 +406,11 @@ footer {
 @media only screen and (min-width: 2560px) {
     
     .gallery-images {
-        justify-content: space-evenly;
-        column-count: 4;  
+        display: block;
+        /*justify-content: center;
+        flex-direction: column;*/  
+        columns: 4;
+        padding-left: 200px;
     }
 
     p {

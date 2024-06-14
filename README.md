@@ -51,7 +51,7 @@ https://garethaubrey.github.io/Project-1-Gareth-Aubrey/
 ## [Credits](#credits-1)
 ## [Content](#content-1)
 ## [Media](#media-1)
-## [Acknowledgments](#acknowledgments)
+## [Acknowledgments](#acknowledgements)
  
 
  

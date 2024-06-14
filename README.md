@@ -24,33 +24,33 @@ https://garethaubrey.github.io/Project-1-Gareth-Aubrey/
 
 </div>
 
-# [Design](#design)
+# [Design](#design-1)
 
-## [Colour Scheme](#colour-scheme)
+## [Colour Scheme](#colour-scheme-1)
 ## [Typography](typography-1)
 ## [Wireframes](wireframes-1)
 
-# [Features](#features)
+# [Features](#features-1)
 
-## [Existing Features](#existing-features)
-## [Features left to implement](#features-left-to-implement)
+## [Existing Features](#existing-features-1)
+## [Features left to implement](#features-left-to-implement-1)
 
-# [Technologies Used](#technologies-used)
+# [Technologies Used](#technologies-used-1)
 
-# [Frameworks, Libraries and Programmes Used](#frameworks-libraries-and-programmes-used)
+# [Frameworks, Libraries and Programmes Used](#frameworks-libraries-and-programmes-used-1)
 
-# [Testing](#testing)
+# [Testing](#testing-1)
 
-## [Manual Testing](#manual-testing)
-## [Fixed Bugs](#fixed-bugs)
+## [Manual Testing](#manual-testing-1)
+## [Fixed Bugs](#fixed-bugs-1)
 
 # [Lighthouse Reports](#lighthouse-reports)
 
-# [Deployment](#deployment)
+# [Deployment](#deployment-1)
 
-## [Credits](#credits)
-## [Content](#content)
-## [Media](#media)
+## [Credits](#credits-1)
+## [Content](#content-1)
+## [Media](#media-1)
 ## [Acknowledgments](#acknowledgments)
  
 

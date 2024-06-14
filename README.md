@@ -27,8 +27,8 @@ https://garethaubrey.github.io/Project-1-Gareth-Aubrey/
 # [Design](#design-1)
 
 ## [Colour Scheme](#colour-scheme-1)
-## [Typography](typography-1)
-## [Wireframes](wireframes-1)
+## [Typography](#typography-1)
+## [Wireframes](#wireframes-1)
 
 # [Features](#features-1)
 

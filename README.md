@@ -12,7 +12,33 @@ ease.
 
 ![AmiResponsive](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/052c4b6a-cfc8-4ec4-b5c2-4d9cb24f5e61)
 
+## Click on link to see live website 
+
+https://garethaubrey.github.io/Project-1-Gareth-Aubrey/
+
 </div>
+
+<div align="center">
+
+## Table of contents
+
+</div>
+
+* [Design](#design)
+
+## [Colour Scheme](#colour-scheme)
+## [Typography](typography)
+## [Wireframes](wireframes)
+
+* [Features](#features)
+
+## [Existing Features](#existing-features)
+## [Features left to implement](#features-left-to-implement)
+
+
+ 
+
+ 
 <div align="center">
 
 ## Design
@@ -178,7 +204,7 @@ The website was deployed using Github (this creates a live version of the websit
 
 Click on the link below to see the finished website - 
 
-https://garethaubrey.github.io/Project-1-Gareth-Aubrey/
+
 <div align="center">
 
 ## Credits

@@ -44,7 +44,7 @@ https://garethaubrey.github.io/Project-1-Gareth-Aubrey/
 ## [Manual Testing](#manual-testing-1)
 ## [Fixed Bugs](#fixed-bugs-1)
 
-# [Lighthouse Reports](#lighthouse-reports)
+# [Lighthouse Reports](#lighthouse-report)
 
 # [Deployment](#deployment-1)
 

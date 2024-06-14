@@ -23,7 +23,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-image: url(../assets/images/header1.pexels.jpeg);
+    background-image: url(../images/header1.pexels.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -54,7 +54,8 @@ header nav {
 nav li {
     display: inline-flex;
     margin-right: 2px;
-    letter-spacing: 2px;
+    letter-spacing: 5px;
+    padding: 1px;
 }
 /*Main content styles*/
 main {

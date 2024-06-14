@@ -96,7 +96,6 @@ or using the logo to return to the home page. The navigation bar will change bac
 * Each page has its own main heading with the home pages main heading being "Online florist for any occasion", the gallery page is headed with "Gallery" and the contact page is headed by "Contact".
 
 * The home page features 1 main heading, 2 paragraphs with their own headings followed by 4 labelled images as examples of different occasions.
-<div align="center">
   
 
 ![mobilehomepage](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/dc6d6fc8-c978-47df-8e84-ceb0e3e4a4b3)
@@ -108,10 +107,8 @@ or using the logo to return to the home page. The navigation bar will change bac
 ![desktopmain](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/9155699f-cdc5-4b80-b813-cbabadb99741)
 
 
-</div>
-
 * The gallery page features 1 main heading and 8 images.
-<div align="center">
+
 
 ![mobilegallery](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/a8a06412-c7a9-4299-b2df-e22ddbc84ef5)
 
@@ -122,11 +119,9 @@ or using the logo to return to the home page. The navigation bar will change bac
 ![desktopgallery](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/a5a4013d-ffc1-46ce-973b-95dc11b95acf)
 
 
-</div>
 
 * the contact page consists of 1 main heading and a delivery/enquiry form with its own heading.
 
- <div align="center">
 
 ![mobilecontact](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/ebbf8057-bfc4-4231-aa79-5fb86ff84292)
 
@@ -138,9 +133,10 @@ or using the logo to return to the home page. The navigation bar will change bac
 
 
 
-</div>
-
 * all pages have a footer with social media links that will take the customer to the companies pages on the relevant social media platform.
+
+![Social Links cropped](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/8555ca68-9a65-4e26-811c-dfeacf728ee8)
+
 
 ### Features left to implement
 
@@ -264,15 +260,30 @@ different shades I found one that worked and also took the opacity off the text 
 
 </div>
 
-The website was deployed using GitHub (this creates a live version of the website), This achieved by - 
+### GitHub Pages
+
+The website was deployed using GitHub pages (this creates a live version of the website), This achieved by - 
 
 * Going to your GitHub repository and looking for the settings tab.
 * From the source drop-down menu you click on master branch.
 * After the master branch has been clicked a link was provided to the website. 
 
-Click on the link below to see the finished website - 
+### Forking the GitHub Repository
 
+Forking the repository means we are making a copy of the original repository on your page which allows you to make changes on the copy instead of making changes on the original, this is achieved by -
 
+* Log into your GitHub and select your repository that you wish to copy.
+* At the top of your repository find the fork button and click (this will fork your repository into your GitHub account)
+
+### Local Clone
+
+Cloning a repository means you are downloading the entire repository onto your computer, this allows you to work on your code locally, this is achieved by - 
+
+*  Log into your GitHub and select your repository that you wish to clone.
+*  Under the repository name you can click "clone or download".
+*  Using the code button select clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+*  Open GitBash on your computer and change the current working directory to the location where you want the cloned repository to be saved.
+*  Type "git clone" and then paste the URL copied earlier, press enter and your local clone should be created.
 <div align="center">
 
 ## Credits

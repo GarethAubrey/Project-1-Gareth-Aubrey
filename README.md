@@ -86,23 +86,41 @@ https://garethaubrey.github.io/Project-1-Gareth-Aubrey/
 ### Existing features
 * The navigation is located on all 3 pages of the website in the top right-hand corner in the header, the nav buttons are used to navigate around the site using the links by clicking on the relevant page name
 or using the logo to return to the home page. The navigation bar will change background depending on size of device as shown below, the text colour will also change as needed.
-![Mobile nav](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/48e171ab-cfe1-4bd8-ac38-01650bd6b514)
-![Laptop nav bar](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/89c43012-e95f-443f-8735-7564bc34b065)
-![Desktop nav bar](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/c2343fb7-c107-4652-b15c-cfcdcba95bb4)
+
+* Mobile -  ![Mobile nav](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/48e171ab-cfe1-4bd8-ac38-01650bd6b514)
+* Tablet -  ![tabletnav](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/7252f9a9-0ba0-4aae-9f96-61ddc8b490c4)
+* Laptop -  ![laptopnav](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/2c167de7-ca2c-429c-9c5a-d6f1839e8149)
+* Desktop - ![desktopnav](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/d76d42cf-7db4-4eb0-8510-55944acc2fa0)
+
 
 * Each page has its own main heading with the home pages main heading being "Online florist for any occasion", the gallery page is headed with "Gallery" and the contact page is headed by "Contact".
 
 * The home page features 1 main heading, 2 paragraphs with their own headings followed by 4 labelled images as examples of different occasions.
 <div align="center">
   
-![Mobile homepage](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/741545d0-34f3-45c2-a09e-ff52862b0793)
+
+![mobilehomepage](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/dc6d6fc8-c978-47df-8e84-ceb0e3e4a4b3)
+
+![tabletmain](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/afafd081-ff60-484c-ad27-c1e08cc0c9cd)
+
+![laptopmain](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/4b29fd37-9cb2-425b-9d22-8f53bb7d47c5)
+
+![desktopmain](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/9155699f-cdc5-4b80-b813-cbabadb99741)
+
 
 </div>
 
 * The gallery page features 1 main heading and 8 images.
 <div align="center">
 
-![Mobile gallery page](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/c93990e2-aa82-4f22-b63d-747f3417316e)
+![mobilegallery](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/a8a06412-c7a9-4299-b2df-e22ddbc84ef5)
+
+![tabletgallery](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/8ce8ac96-e863-4344-ac50-653665a83a8b)
+
+![laptopgallery](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/04200032-da36-431f-a425-ff4cbdf86747)
+
+![desktopgallery](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/a5a4013d-ffc1-46ce-973b-95dc11b95acf)
+
 
 </div>
 
@@ -110,7 +128,15 @@ or using the logo to return to the home page. The navigation bar will change bac
 
  <div align="center">
 
-![mobile contact page 1](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/9928408c-7f8e-4283-95c9-1c8783983389)
+![mobilecontact](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/ebbf8057-bfc4-4231-aa79-5fb86ff84292)
+
+![tabletcontact](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/6afda1dc-5ec2-4de9-b3f2-7b35e107b14d)
+
+![laptopcontact](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/f26d2a53-047b-44c5-bcaa-4af24a9a46bd)
+
+![desktopcontact](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/d49f6b00-7381-4ab6-83e9-2f8ffc5182a3)
+
+
 
 </div>
 
@@ -192,17 +218,44 @@ different shades I found one that worked and also took the opacity off the text 
 </div>
 
 
-* Home page Lighthouse results
+* ### Home page Lighthouse results
 
-![lighthouse home](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/c1bb351f-ae34-45ff-9f5c-fa63175bf687)
+* Mobile -
 
-* Gallery page Lighthouse results
+![mobilelighthousehome](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/f1b1ba14-cb8d-4aa0-a7c0-47bc4cc711c4)
 
-![lighthouse gallery](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/19cf093a-a85a-47bb-b023-42c3c93abfce)
 
-* Contact page Lighthouse results
+* Desktop -
 
-![lighthouse contact](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/ec4010c3-05ee-4df8-bc46-95f10fb4dbf9)
+![desktoplighthousemain](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/bb23283a-03e6-4c81-849b-6cfcddc764cc)
+
+
+
+* ### Gallery page Lighthouse results
+
+* Mobile -
+
+![mobilelighthousegallery](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/19221932-eb26-40ee-a8e3-f4f3991603e3)
+
+
+* Desktop -
+
+![desktoplighthousegallery](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/663c3c49-a5c6-4b9a-b128-13a88b86990e)
+
+
+
+* ### Contact page Lighthouse results
+
+* Mobile -
+
+![mobilelighthousecontact](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/1d1edecf-3831-4895-81d2-51b2dc65e02c)
+
+
+* Desktop -
+
+![desktoplighthousecontact](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/162215e8-ab8b-4d68-9b30-a66c20ebd5cc)
+
+
 
 
 <div align="center">

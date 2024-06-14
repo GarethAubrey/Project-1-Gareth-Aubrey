@@ -24,18 +24,34 @@ https://garethaubrey.github.io/Project-1-Gareth-Aubrey/
 
 </div>
 
-* [Design](#design)
+# [Design](#design)
 
 ## [Colour Scheme](#colour-scheme)
-## [Typography](typography)
-## [Wireframes](wireframes)
+## [Typography](typography-1)
+## [Wireframes](wireframes-1)
 
-* [Features](#features)
+# [Features](#features)
 
 ## [Existing Features](#existing-features)
 ## [Features left to implement](#features-left-to-implement)
 
+# [Technologies Used](#technologies-used)
 
+# [Frameworks, Libraries and Programmes Used](#frameworks-libraries-and-programmes-used)
+
+# [Testing](#testing)
+
+## [Manual Testing](#manual-testing)
+## [Fixed Bugs](#fixed-bugs)
+
+# [Lighthouse Reports](#lighthouse-reports)
+
+# [Deployment](#deployment)
+
+## [Credits](#credits)
+## [Content](#content)
+## [Media](#media)
+## [Acknowledgments](#acknowledgments)
  
 
  
@@ -162,7 +178,7 @@ I used the W3C markup validator and W3C CSS validator services to validate all t
 
 <div align="center">
 
-## Bugs
+## Fixed Bugs
 
 </div>
 

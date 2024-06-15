@@ -124,14 +124,13 @@ that could be catered for.
 * the contact page consists of 1 main heading and a delivery/enquiry form with its own heading.
 
 
-![mobilecontact](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/ebbf8057-bfc4-4231-aa79-5fb86ff84292)
+![mobilecontactpage](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/8546576f-9b86-4f06-8337-155982f349ca)
 
-![tabletcontact](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/6afda1dc-5ec2-4de9-b3f2-7b35e107b14d)
+![tabletcontactpage](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/f4218b98-201b-4f59-a8a7-c6a5953ac4d9)
 
-![laptopcontact](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/f26d2a53-047b-44c5-bcaa-4af24a9a46bd)
+![laptopcontactpage](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/802d645d-71d0-4f7c-84de-19e045a1f40b)
 
-![desktopcontact](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/d49f6b00-7381-4ab6-83e9-2f8ffc5182a3)
-
+![desktopcontactpage](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/e1a94c35-65c3-4497-b518-a1f195db479e)
 
 
 * all pages have a footer with social media links that will take the customer to the companies pages on the relevant social media platform.

@@ -95,7 +95,8 @@ or using the logo to return to the home page. The navigation bar will change bac
 
 * Each page has its own main heading with the home pages main heading being "Online florist for any occasion", the gallery page is headed with "Gallery" and the contact page is headed by "Contact".
 
-* The home page features 1 main heading, 2 paragraphs with their own headings followed by 4 labelled images as examples of different occasions.
+* The home page features 1 main heading, 2 paragraphs with their own headings followed by 4 labelled images that have a hover effect on each image to make them grow and change background colour these images are examples of different occasions
+that could be catered for.
   
 
 ![mobilehomepage](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/dc6d6fc8-c978-47df-8e84-ceb0e3e4a4b3)

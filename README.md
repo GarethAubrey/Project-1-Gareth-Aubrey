@@ -9,7 +9,9 @@ Customers can also have a look on our gallery page that will show them several d
 
 <div align="center">
 
-![AmiResponsive](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/052c4b6a-cfc8-4ec4-b5c2-4d9cb24f5e61)
+![responive test](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/283f87c2-d3df-4ad5-ab2e-475bb772761e)
+
+
 
 ## Click on link to see live website 
 

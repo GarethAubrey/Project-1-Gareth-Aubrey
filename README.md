@@ -117,7 +117,8 @@ or using the logo to return to the home page.
 that could be catered for.
   
 
-![Home page](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/1edf4caf-fbe0-4617-8473-670d0f539997)
+![Home page updated](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/7ea15fa8-f5c2-4aa9-897f-cf4ac49103f7)
+
 
 
 
@@ -132,7 +133,8 @@ that could be catered for.
 * the contact page consists of 1 main heading and a delivery/enquiry form with its own heading.
 
 
-![enquiry form](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/7bae0001-0f0d-4c39-a074-583d104aebbf)
+![Enquiry form update](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/22810957-9d34-4244-8e88-5db882140159)
+
 
 
 

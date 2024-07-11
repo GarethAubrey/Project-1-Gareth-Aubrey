@@ -102,7 +102,7 @@ https://garethaubrey.github.io/Project-1-Gareth-Aubrey/
 
 ### Existing features
 * The navigation is located on all 3 pages of the website in the top right-hand corner in the header, the nav buttons are used to navigate around the site using the links by clicking on the relevant page name
-or using the logo to return to the home page. The navigation bar will change background depending on size of device as shown below, the text colour will also change as needed.
+or using the logo to return to the home page.
 
 * Mobile -
 

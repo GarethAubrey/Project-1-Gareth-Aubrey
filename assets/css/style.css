@@ -133,7 +133,7 @@ h4 {
 #gallery-h2 {
     display: flex;
     justify-content: center;
-    background-color: #d1e8e2;
+    background-color: #a1c3d1;
     text-transform: capitalize;
     padding: 5px;
     color: #fafafa;
@@ -269,16 +269,7 @@ footer {
     
 @media only screen and (min-width: 768px) {
 
-    header {
-       /* background-color: #99795d;
-        background-image: none;*/
-    }
-
-    main {
-        background-image: url(../assets/images/background.1.pexels.jpeg);
-    }
-
-    h2, h3, h4, p, .text-input, label {
+       h2, h3, h4, p, .text-input, label {
         font-size: x-large;
     }
 
@@ -289,7 +280,7 @@ footer {
     }
 
     #wedding:hover, #funerals:hover, #valentines:hover, #mothers-day:hover {
-        background-color: #99795d;
+        background-color: #a1c3d1;
         cursor: pointer;
         transform: scale(1.10);
         transition: all 1s ease-in-out;
@@ -321,17 +312,10 @@ footer {
 /*@media for laptop screens*/
 @media only screen and (min-width: 1024px) {
 
-    main {
-        background-image: none;
-        background-color: #eec56c;
+    a {
+        color: #ffffff;
     }
 
-    header {
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
-    }
-    
     .images-home {
         justify-content: space-evenly;
     }
@@ -345,16 +329,6 @@ footer {
 /*@media for desktop screens*/
 @media only screen and (min-width: 1440px) {
    
-    header {
-        background-image: none;
-        background-color: #fc9ec2;
-    }
-
-    main {
-        background-color: #000000;
-        color: #fc9ec2;
-    }
-
     h2, h3, h4, p, .text-input, label {
         font-size: xx-large;
     }
@@ -383,17 +357,12 @@ footer {
         color: #000000;
     }
 
-    #gallery-h2 {
-        background-color: #ffb4d1;
-    }
-
     .gallery-images {
         margin-top: 117px;
     }
 
     footer {
         padding: 30px;
-        background-color: #ffb4d1;
     }
 
     #signup {

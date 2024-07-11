@@ -184,9 +184,14 @@ I used the W3C markup validator and W3C CSS validator services to validate all t
   
 ![HTML validator gallery](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/ee7147a7-ae2c-4ea2-8be6-90c19c2c2c45) 
 
-*W3C HTML checker for contact.html
+* W3C HTML checker for contact.html
 
 ![HTML validator contact updated](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/72e0f3be-0c26-4392-a7a7-8b92e200f353)
+
+* CSS Jigsaw checker -
+
+![CSS jigsaw report](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/3260b6a4-88fb-4caf-a0fe-680028dd1940)
+
 
 <div align="center">
 

@@ -66,8 +66,8 @@ https://garethaubrey.github.io/Project-1-Gareth-Aubrey/
 ### Colour scheme  
 
 *  #### Colours used on the website are -  
-* (Below 1440px) - #116466, #f7a45b, #faac46.
-* (Above 1440px) - #fc9ec2, #ffb4d1, #d9b08c.  
+* #A1C3D1
+* #D1E8E2
 
 ### Typography  
 * Times New Roman is the main font used throughout the site with backups of Times and Serif.  

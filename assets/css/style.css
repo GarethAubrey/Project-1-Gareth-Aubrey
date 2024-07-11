@@ -23,14 +23,11 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-image: url(../images/header1.pexels.jpeg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
+    background-color: #a1c3d1;
 }
 
 .header-contact {
-    background-color: #116466;
+    background-color: #a1c3d1;
 }
 /*Href link styles*/
 a {
@@ -136,9 +133,10 @@ h4 {
 #gallery-h2 {
     display: flex;
     justify-content: center;
-    background-color: #b49162;
+    background-color: #d1e8e2;
     text-transform: capitalize;
     padding: 5px;
+    color: #fafafa;
 }
 
 .gallery-images {
@@ -162,7 +160,7 @@ h4 {
 }
 
 #signup {
-    background-color: #50c58a;
+    background-color: #f0ebf4;
     background-position: 50%;
     padding: 20px 10% 0 10%;
     flex-grow: 1;
@@ -214,7 +212,7 @@ h4 {
 }
 /*Styles for footer*/
 footer {
-    background-color: #b49162;
+    background-color: #a1c3d1;
     color: #000000;
     align-items: flex-end;
     padding: 20px;
@@ -223,7 +221,7 @@ footer {
 } 
 
 .footer-contact {
-    background-color: #116466;
+    background-color: #a1c3d1;
 }
     
 /*@media for mobile screens*/
@@ -272,8 +270,8 @@ footer {
 @media only screen and (min-width: 768px) {
 
     header {
-        background-color: #99795d;
-        background-image: none;
+       /* background-color: #99795d;
+        background-image: none;*/
     }
 
     main {

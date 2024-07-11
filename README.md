@@ -217,12 +217,14 @@ different shades I found one that worked and also took the opacity off the text 
 
 * Mobile -
 
-![mobilelighthousehome](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/f1b1ba14-cb8d-4aa0-a7c0-47bc4cc711c4)
+![lighthouse mobile](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/328b2c7c-55da-4749-b051-1c6864c58e37)
+
 
 
 * Desktop -
 
-![desktoplighthousemain](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/bb23283a-03e6-4c81-849b-6cfcddc764cc)
+![lighthouse desktop](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/dc7b041e-638d-4de6-b583-2c2354754f39)
+
 
 
 
@@ -230,12 +232,14 @@ different shades I found one that worked and also took the opacity off the text 
 
 * Mobile -
 
-![mobilelighthousegallery](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/19221932-eb26-40ee-a8e3-f4f3991603e3)
+![Lighthouse mobile Gallery](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/d4a8f9b7-7ad4-4565-b35d-4acacfa727d2)
+
 
 
 * Desktop -
 
-![desktoplighthousegallery](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/663c3c49-a5c6-4b9a-b128-13a88b86990e)
+![lighthouse desktop gallery](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/54682a26-719b-44ae-869c-12cfa1d2df97)
+
 
 
 
@@ -243,12 +247,14 @@ different shades I found one that worked and also took the opacity off the text 
 
 * Mobile -
 
-![mobilelighthousecontact](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/1d1edecf-3831-4895-81d2-51b2dc65e02c)
+![lighthouse mobile enquiry](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/aff21e32-5016-49f2-b572-592f7bcb67bb)
+
 
 
 * Desktop -
 
-![desktoplighthousecontact](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/162215e8-ab8b-4d68-9b30-a66c20ebd5cc)
+![lighthouse desktop enquiry](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/9c6283a9-2183-47b8-b1b2-5616442fe468)
+
 
 
 

@@ -99,10 +99,11 @@ https://garethaubrey.github.io/Project-1-Gareth-Aubrey/
 * The navigation is located on all 3 pages of the website in the top right-hand corner in the header, the nav buttons are used to navigate around the site using the links by clicking on the relevant page name
 or using the logo to return to the home page. The navigation bar will change background depending on size of device as shown below, the text colour will also change as needed.
 
-* Mobile -  ![Mobile nav](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/48e171ab-cfe1-4bd8-ac38-01650bd6b514)
-* Tablet -  ![tabletnav](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/7252f9a9-0ba0-4aae-9f96-61ddc8b490c4)
-* Laptop -  ![laptopnav](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/2c167de7-ca2c-429c-9c5a-d6f1839e8149)
-* Desktop - ![desktopnav](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/d76d42cf-7db4-4eb0-8510-55944acc2fa0)
+* Mobile -
+
+![Nav Bar new](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/94aa7ca3-c722-471e-8c39-d4f601b7ee28)
+
+
 
 
 * Each page has its own main heading with the home pages main heading being "Online florist for any occasion", the gallery page is headed with "Gallery" and the contact page is headed by "Contact".
@@ -111,43 +112,29 @@ or using the logo to return to the home page. The navigation bar will change bac
 that could be catered for.
   
 
-![mobilehomepage](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/dc6d6fc8-c978-47df-8e84-ceb0e3e4a4b3)
+![Home page](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/1edf4caf-fbe0-4617-8473-670d0f539997)
 
-![tabletmain](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/afafd081-ff60-484c-ad27-c1e08cc0c9cd)
-
-![laptopmain](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/4b29fd37-9cb2-425b-9d22-8f53bb7d47c5)
-
-![desktopmain](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/9155699f-cdc5-4b80-b813-cbabadb99741)
 
 
 * The gallery page features 1 main heading and 8 images.
 
 
-![mobilegallery](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/a8a06412-c7a9-4299-b2df-e22ddbc84ef5)
+![Gallery](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/a9794d09-7fc3-408c-9a46-fea29a904d5d)
 
-![tabletgallery](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/8ce8ac96-e863-4344-ac50-653665a83a8b)
-
-![laptopgallery](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/04200032-da36-431f-a425-ff4cbdf86747)
-
-![desktopgallery](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/a5a4013d-ffc1-46ce-973b-95dc11b95acf)
 
 
 
 * the contact page consists of 1 main heading and a delivery/enquiry form with its own heading.
 
 
-![mobilecontactpage](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/8546576f-9b86-4f06-8337-155982f349ca)
+![enquiry form](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/7bae0001-0f0d-4c39-a074-583d104aebbf)
 
-![tabletcontactpage](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/f4218b98-201b-4f59-a8a7-c6a5953ac4d9)
-
-![laptopcontactpage](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/802d645d-71d0-4f7c-84de-19e045a1f40b)
-
-![desktopcontactpage](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/e1a94c35-65c3-4497-b518-a1f195db479e)
 
 
 * all pages have a footer with social media links that will take the customer to the companies pages on the relevant social media platform.
 
-![Social Links cropped](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/8555ca68-9a65-4e26-811c-dfeacf728ee8)
+![Footer](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/a2acdadd-4f6f-48f1-ae78-d0138c246db8)
+
 
 
 ### Features left to implement

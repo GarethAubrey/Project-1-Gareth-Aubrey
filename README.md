@@ -78,6 +78,11 @@ https://garethaubrey.github.io/Project-1-Gareth-Aubrey/
 ![#D1E8E2](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/17db7226-97c7-4adf-a3de-0445556dc44a)
 
 
+* #F0EBF4
+
+
+![#F0EBF4-1](https://github.com/GarethAubrey/Project-1-Gareth-Aubrey/assets/164876386/73e082bc-8ac3-46f8-87a7-3ebd1580ab9c)
+
 
 ### Typography  
 * Times New Roman is the main font used throughout the site with backups of Times and Serif.  
